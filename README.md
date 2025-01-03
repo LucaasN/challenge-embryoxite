@@ -26,4 +26,4 @@ Para clonar y ejecutar el proyecto sigue estos pasos:
 ## Despliegue
 Se puede testear el proyecto deployado en Netlify:
 
-[Netlify](https://challenge-embryoxite.netlify.app/))
+[Netlify](https://challenge-embryoxite.netlify.app/)
