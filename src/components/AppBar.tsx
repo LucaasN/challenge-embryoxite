@@ -15,7 +15,7 @@ const pages = [
   { name: "Home", path: "/home", external: false },
   { name: "About", path: "/about", external: false },
   { name: "Repositorio GitHub", path: "https://github.com/LucaasN/challenge-embryoxite", external: true },
-  { name: "Deploy Netlify", path: "https://challenge-embryoxite.netlify.app/", external: true }
+  { name: "Netlify", path: "https://challenge-embryoxite.netlify.app/", external: true }
 ];
 
 export const ResponsiveAppBar = () => {
